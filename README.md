@@ -23,5 +23,5 @@ This Application is a PWA text editor. The users are able to create notes or pie
  Run `npm run install` in the root folder to install all packages needed. Then run `npm run build`, and lastly type `npm run start` to start application. 
 
 # Repo 
-- [Project Repo]()
+- [Project Repo](https://github.com/DosTorrez/Text_Editor.git)
 # Demo
